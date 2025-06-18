@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutvij Patil</h1>
 <h3 align="center">A full-stack developer having expertise in Javascript and ReactJs</h3>
 
-- 🌱 I’m currently learning **NextJs, Spring Boot**
+- 🌱 I’m currently learning **NextJs, Spring Boot, SvelteJS**
 
 - 💬 Ask me about **javascript, react, java**
 
