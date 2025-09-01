@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Next.js, Svelte.js**
 
-- 👨‍💻 All of my projects are available at [https://rutvijpatil.vercel.app/](https://rutvijpatil.vercel.app/)
+- 👨‍💻 All of my projects are available at [🔗 Go to my website](https://rutvijpatil.vercel.app/)
 
 - 💬 Ask me about **react, java, javascript**
 
 - 📫 How to reach me **rutvijkpatil@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AApMKt6c4UIifjVJMuIfSfO2zOAiOCEi/edit?usp=sharing&ouid=102799893461631492899&rtpof=true&sd=true](https://docs.google.com/document/d/1AApMKt6c4UIifjVJMuIfSfO2zOAiOCEi/edit?usp=sharing&ouid=102799893461631492899&rtpof=true&sd=true)
+- 📄 Know about my experiences [🔗 View my resume](https://docs.google.com/document/d/1AApMKt6c4UIifjVJMuIfSfO2zOAiOCEi/edit?usp=sharing&ouid=102799893461631492899&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I can play the piano!**
 
